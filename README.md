@@ -1,4 +1,4 @@
-# Find The Case - Python With ML (Tkinter)
+# CaseValut Pro- Python With ML (Tkinter)
 
 ### Project Overview
 **Find the Case** is an advanced government system designed to capture and store images efficiently. This system improves the training and accuracy of machine learning models by ensuring redundancy and reliability in data storage. The system stores data in two different locations simultaneously, making it suitable for handling large datasets.
